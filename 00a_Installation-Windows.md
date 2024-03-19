@@ -26,7 +26,7 @@
     
     arduinoCopy code
     
-    `git config --global user.email "deine-email@example.com"`
+    `git config --global user.email "deine-email@Beispiel.com"`
     
 
   GitHub Repository klonen
