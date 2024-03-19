@@ -9,8 +9,12 @@ git commit --m 'initial commit'
 ~~~
  
 # Locales Repo mit server verbinden
+wenn mit einem SSH-KEY gearbeitet werden soll
 ~~~bash
 git remote add origin git@github.com:andreas-vonrhein/REPONAME.git
+~~~
+
+~~~shell
 git remote add origin https://github.com:andreas-vonrhein/REPONAME.git
 ~~~
 
