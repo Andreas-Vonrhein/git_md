@@ -30,7 +30,7 @@
    
     
 
-# GitHub Repository klonen
+### GitHub Repository klonen
 
 1. Öffne die Git Bash-Anwendung.
 2. Navigiere zum Verzeichnis, in dem du das Repository klonen möchtest, indem du den `cd`-Befehl verwendest.
