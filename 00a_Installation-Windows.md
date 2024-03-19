@@ -1,4 +1,4 @@
-# Anleitung zur Installation und Einrichtung von GitHub auf Windows
+# Anleitung zur Installation und Einrichtung von GitHub und Git auf Windows
 
 ##  GitHub-Konto erstellen
 
