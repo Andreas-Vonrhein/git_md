@@ -17,17 +17,17 @@
 
 1. Öffne die Git Bash-Anwendung, die mit der Git-Installation installiert wurde.
 2. Konfiguriere deinen Benutzernamen, indem du den folgenden Befehl eingibst und dein GitHub-Benutzername ersetzt:
+
+~~~shell
+git config --global user.name "Dein GitHub-Benutzername"
+~~~
+
     
-  
-    
-    `git config --global user.name "Dein GitHub-Benutzername"`
-    
-3. Konfiguriere deine E-Mail-Adresse mit dem folgenden Befehl und ersetze "deine-email@Beispiel.com" durch die E-Mail-Adresse, die mit deinem GitHub-Konto verknüpft ist:
-    
-    arduinoCopy code
-    
-    `git config --global user.email "deine-email@Beispiel.com"`
-   
+4. Konfiguriere deine E-Mail-Adresse mit dem folgenden Befehl und ersetze "deine-email@Beispiel.com" durch die E-Mail-Adresse, die mit deinem GitHub-Konto verknüpft ist:
+
+   ~~~shell
+   `git config --global user.email "deine-email@Beispiel.com"`
+   ~~~
     
 
 ### GitHub Repository klonen
@@ -35,11 +35,10 @@
 1. Öffne die Git Bash-Anwendung.
 2. Navigiere zum Verzeichnis, in dem du das Repository klonen möchtest, indem du den `cd`-Befehl verwendest.
 3. Klonen Sie das Repository, indem Sie den folgenden Befehl eingeben und die URL durch die URL des zu klonenden Repositories ersetzen:
-    
-    bashCopy code
-    
+
+    ~~~shell
     `git clone <Repository-URL>`
-    
+    ~~~
 
 ## GitHub Repository erstellen und verwalten
 
