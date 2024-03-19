@@ -18,7 +18,7 @@
 1. Öffne die Git Bash-Anwendung, die mit der Git-Installation installiert wurde.
 2. Konfiguriere deinen Benutzernamen, indem du den folgenden Befehl eingibst und dein GitHub-Benutzername ersetzt:
     
-    arduinoCopy code
+  
     
     `git config --global user.name "Dein GitHub-Benutzername"`
     
