@@ -1,5 +1,5 @@
 
-# Pakete in Linux installieren 
+# Pakete in Linux installieren (funktioniert auch mit Windows)
 ```bash
 apt-get install git 
 ```
